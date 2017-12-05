@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Documents/FTP C/supSharingServer/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+dirent.h
+-
+winsock2.h
+-
+sys/types.h
+-
+windows.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+main.h
+C:/Documents/FTP C/supSharingServer/main.h
+
+C:/Documents/FTP C/supSharingServer/main.h
+

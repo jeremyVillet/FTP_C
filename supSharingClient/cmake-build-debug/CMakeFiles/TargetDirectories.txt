@@ -1,0 +1,3 @@
+C:/Documents/FTP C/supSharingClient/cmake-build-debug/CMakeFiles/supSharingClient.dir
+C:/Documents/FTP C/supSharingClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Documents/FTP C/supSharingClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
